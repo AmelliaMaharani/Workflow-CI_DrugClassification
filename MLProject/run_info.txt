@@ -1,0 +1,49 @@
+
+MODEL: DecisionTree
+Run ID: ef4ad19eff9d4c3dbf3c4e0a1c9361aa
+Accuracy: 0.9750
+Precision: 0.9763
+Recall: 0.9750
+F1-Score: 0.9747
+Artifact URI: file:D:/_ASAH DICODING/SMSML_AMELLIA-DWI-MAHARANI/SMSML_AMELLIA-DWI-MAHARANI/Workflow-CI/MLProject/mlruns/1/ef4ad19eff9d4c3dbf3c4e0a1c9361aa/artifacts
+========================================
+MODEL: RandomForest
+Run ID: fb1e9074ea2042598075256e65eca8dc
+Accuracy: 0.9750
+Precision: 0.9763
+Recall: 0.9750
+F1-Score: 0.9747
+Artifact URI: file:D:/_ASAH DICODING/SMSML_AMELLIA-DWI-MAHARANI/SMSML_AMELLIA-DWI-MAHARANI/Workflow-CI/MLProject/mlruns/1/fb1e9074ea2042598075256e65eca8dc/artifacts
+========================================
+MODEL: DecisionTree
+Run ID: 9489fa68f3274473a67ce3e5a0f71797
+Accuracy: 0.9750
+Precision: 0.9763
+Recall: 0.9750
+F1-Score: 0.9747
+Artifact URI: file:D:/_ASAH DICODING/SMSML_AMELLIA-DWI-MAHARANI/SMSML_AMELLIA-DWI-MAHARANI/Workflow-CI/MLProject/mlruns/1/9489fa68f3274473a67ce3e5a0f71797/artifacts
+========================================
+MODEL: RandomForest
+Run ID: c3beea6a218841f1a1e44a49175e112d
+Accuracy: 0.9750
+Precision: 0.9763
+Recall: 0.9750
+F1-Score: 0.9747
+Artifact URI: file:D:/_ASAH DICODING/SMSML_AMELLIA-DWI-MAHARANI/SMSML_AMELLIA-DWI-MAHARANI/Workflow-CI/MLProject/mlruns/1/c3beea6a218841f1a1e44a49175e112d/artifacts
+========================================
+MODEL: DecisionTree
+Run ID: 2863120e7332413081e1a243dff77265
+Accuracy: 0.9750
+Precision: 0.9763
+Recall: 0.9750
+F1-Score: 0.9747
+Artifact URI: file:D:/_ASAH DICODING/SMSML_AMELLIA-DWI-MAHARANI/SMSML_AMELLIA-DWI-MAHARANI/Workflow-CI/MLProject/mlruns/1/2863120e7332413081e1a243dff77265/artifacts
+========================================
+MODEL: RandomForest
+Run ID: 9e9995f3685245648edf587036bbc0c1
+Accuracy: 0.9750
+Precision: 0.9763
+Recall: 0.9750
+F1-Score: 0.9747
+Artifact URI: file:D:/_ASAH DICODING/SMSML_AMELLIA-DWI-MAHARANI/SMSML_AMELLIA-DWI-MAHARANI/Workflow-CI/MLProject/mlruns/1/9e9995f3685245648edf587036bbc0c1/artifacts
+========================================

@@ -1,0 +1,31 @@
+artifact_path: file:D:/_ASAH DICODING/SMSML_AMELLIA-DWI-MAHARANI/SMSML_AMELLIA-DWI-MAHARANI/Workflow-CI/MLProject/mlruns/1/models/m-b0b1da01781e4ee9b004f53cf66b88b5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.7.0
+model_id: m-b0b1da01781e4ee9b004f53cf66b88b5
+model_size_bytes: 2405
+model_uuid: m-b0b1da01781e4ee9b004f53cf66b88b5
+prompts: null
+run_id: ef4ad19eff9d4c3dbf3c4e0a1c9361aa
+signature:
+  inputs: '[{"type": "long", "name": "Age", "required": true}, {"type": "long", "name":
+    "Sex", "required": true}, {"type": "long", "name": "BP", "required": true}, {"type":
+    "long", "name": "Cholesterol", "required": true}, {"type": "double", "name": "Na_to_K",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-12-06 09:58:42.799737'
